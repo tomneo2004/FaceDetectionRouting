@@ -1,3 +1,5 @@
+Run npm install in terminal to install all necessary modules before you run npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
